@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reza Bahadorizadeh.
-- 👀 I’m a senior Data Engineer and interested in Data.
-- 🌱 I’m currently learning Python, AWS Solutions Architect & DS.
+- 👀 I’m a senior Data Engineer and interested in Data&AI.
+- 🌱 I’m currently learning Python, AI, AWS Solutions Architect & DS.
 - 💞️ I’m looking to collaborate on Business Data Analytics.
 - 📫 My email is: bahadory.reza@gmail.com-
 
